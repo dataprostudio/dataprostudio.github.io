@@ -1,4 +1,4 @@
-# DataPro Studio, Inc.
+# DataProStudio, Inc.
 ## Data Consultancy
 
 We process your data while you focus on your core business.
@@ -7,7 +7,10 @@ We process your data while you focus on your core business.
   * Processing: Data extraction, cleaning, transforming, and visualizing
   * Managing: Data warehouse proof of concept
   * Enhancing: Machine Learning models fine tuning
-  * Researching: Large Language Models setup
+  * Researching: Process mining, Large Language Models setup
+
+### Products
+  * NX8020™ >> https://nx8020.com
 
 T: +1 206-423-8520 
 E: info@dataprostudio.dev
