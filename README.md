@@ -10,7 +10,7 @@ We process your data while you focus on your core business.
   * Researching: Process mining, Large Language Models setup
 
 ### Products
-  * NX8020™ >> https://nx8020.com
+  * NX8020™ >> https://www.nx8020.com
 
 T: +1 206-423-8520 
 E: info@dataprostudio.dev
